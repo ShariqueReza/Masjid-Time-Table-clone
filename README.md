@@ -7,3 +7,6 @@ A simple website clone that consist full time table of 5 times azaan & namaz in 
 HTML
 CSS
 BOOTSTRAP
+
+## Cloudflare link
+[View Live](https://project3-gxr.pages.dev/)
